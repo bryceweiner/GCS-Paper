@@ -116,21 +116,21 @@ This study proposes a radical interpretation of the Great Cold Spot (GCS) as a u
 
 Our framework suggests the existence of three key findings to support this proposition:
 
-1. The c³ Scaling Law 
+### 1. The c³ Scaling Law 
 We demonstrate that temperature deficits in the CMB scale with c³, providing a fundamental bridge between quantum and cosmic phenomena. This relationship:
 ```
 ΔT = -γV/c³
 ```
 emerges naturally from causality constraints and aligns with 't Hooft's holographic principle.
 
-2.	Weiner's Constant 
+### 2.	Weiner's Constant 
 We derive a specific decoherence rate:
 ```
 γ ≈ 1.89 × 10⁻²⁹ s⁻¹
 ```
 representing the first quantitative measurement of quantum branching rates.
 
-3.	The GCS Ratio 
+### 3.	The GCS Ratio 
 We identify a consistent ratio (≈1.285) across multiple GCS measurements, though its fundamental significance remains uncertain.
 
 1. Temperature deficits may reflect quantum branching rates:
