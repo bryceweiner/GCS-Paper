@@ -59,7 +59,7 @@ This transformation represents a key theoretical leap: if correct, it provides t
 If temperature deficits do indeed reflect branching rates, then specific observable signatures should manifest in the CMB polarization patterns (Kamionkowski et al., 1997; DOI: 10.1103/PhysRevLett.78.2058). The polarization correlation function between electric field components at different points in space is given by:
 ```
 Pᵢⱼ = ⟨0|Eᵢ(x)Eⱼ(x')|0⟩
-``
+```
 ### 3.3 The GCS Ratio
 In analyzing the GCS measurements to discover such signatures, a consistent ratio (≈1.285) appears across multiple independent observations. While potentially coincidental, this ratio appears in:
 
