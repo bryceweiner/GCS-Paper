@@ -6,4 +6,6 @@ The two files to begin with would be Paper.md, which formulates the basis of the
 
 appendix-a.md contains mathematical models for many equations to include γ (Weiner's constant of Universal Quantum Branching) in standard calculations.
 
+Some of the documents are placeholders and not well developed. Some of the documents are pure fantasy. Some are just crap.
+
 Comments are welcome.
