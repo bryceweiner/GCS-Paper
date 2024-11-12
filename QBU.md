@@ -1,4 +1,4 @@
-# The Quantum Branching Universe Model: Implications Across Physics Domains
+# The Quantum Branching Universe Model
 
 ## Abstract
 
