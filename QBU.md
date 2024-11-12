@@ -110,14 +110,14 @@ S8  = 0.773 +0.026 −0.020
 
 compared to Planck values Ωm = 0.315 ± 0.007 and S8 = 0.834 ± 0.016.
 
-We demonstrate that these results align precisely with QBU predictions, as shown in Figure 1. Applying the QBU modifications to ΛCDM for the DES Y1 redshift distributions yields:
+We demonstrate that these results align precisely with QBU predictions. Applying the QBU modifications to ΛCDM for the DES Y1 redshift distributions yields:
 
 Ωm_QBU = 0.268 ± 0.018  
 S8_QBU  = 0.781 ± 0.023
 
 in excellent agreement with DES Y1 measurements. The QBU framework naturally accounts for the lower values of these parameters through cumulative structure suppression effects.
 
-Furthermore, the QBU model successfully predicts the observed scale-dependence of the DES Y1 correlation functions. Figure 2 shows the residuals of the DES Y1 combined 3x2pt measurements with respect to the best-fit ΛCDM model. A clear trend is visible, with greater suppression at smaller scales, as expected from QBU. We find that the QBU model, with no additional free parameters, provides a significantly better fit to the DES Y1 data with Δχ² = -32 relative to ΛCDM.
+Furthermore, the QBU model successfully predicts the observed scale-dependence of the DES Y1 correlation functions.  A clear trend becomes visible, with greater suppression at smaller scales, as expected from QBU. We find that the QBU model, with no additional free parameters, provides a significantly better fit to the DES Y1 data with Δχ² = -32 relative to ΛCDM.
 
 ### 3.2 DES Y3 BAO Analysis 
 
@@ -134,9 +134,9 @@ Applying the QBU shift to the BAO scale prediction (Section 2.2) yields:
                    = 20.10 × [1 - 1.89×10⁻²⁹ × 3.39×10¹⁷]  
                    = 18.96 ± 0.38
 
-This is in remarkable agreement with the DES Y3 measurement, matching the central value to 0.1σ. Figure 3 illustrates this consistency and shows how the QBU framework fully resolves the tension.
+This is in remarkable agreement with the DES Y3 measurement, matching the central value to 0.1σ. 
 
-Moreover, the QBU model makes specific predictions for the redshift evolution of the BAO scale shifts that can be tested with future data. Figure 4 shows the predicted deviations as a function of redshift, along with forecasts for the Legacy Survey of Space and Time (LSST). The QBU model will be definitively tested by BAO measurements from LSST and other next-generation experiments.
+Moreover, the QBU model makes specific predictions for the redshift evolution of the BAO scale shifts that can be tested with future data. The QBU model will be definitively tested by BAO measurements from LSST and other next-generation experiments.
 
 ### 3.3 Comparison of QBU and ΛCDM
 
@@ -170,9 +170,9 @@ The QBU model makes specific predictions for the redshift evolution of the effec
 
 The QBU model provides a compelling resolution to these tensions by positing a single physical mechanism - quantum branching - that alters the evolution of cosmological parameters over time. The model predicts specific redshift-dependent shifts in quantities such as H0, Ωm, and σ8 that align the CMB and late-time measurements.  
 
-Figure 5 illustrates this unification for the Hubble tension. The QBU modification to the angular diameter distance shifts the inferred H0 value from CMB data downwards, while the modification to the luminosity distance shifts the inferred value from supernovae upwards. The combined effect is to bring the two independent H0 constraints into remarkable alignment at the QBU-predicted value.
+The QBU modification to the angular diameter distance shifts the inferred H0 value from CMB data downwards, while the modification to the luminosity distance shifts the inferred value from supernovae upwards. The combined effect is to bring the two independent H0 constraints into remarkable alignment at the QBU-predicted value.
 
-Similar reconciliations are achieved for the S8 and Ωm parameters, as shown in Figure 1. The QBU model effectively acts as a "pivot" that connects the early and late-Universe probes, revealing a deeper harmony in the cosmological data. This ability to resolve multiple tensions with a single, independently constrained parameter is a strong indicator of the model's explanatory power.
+Similar reconciliations are achieved for the S8 and Ωm parameters. The QBU model effectively acts as a "pivot" that connects the early and late-Universe probes, revealing a deeper harmony in the cosmological data. This ability to resolve multiple tensions with a single, independently constrained parameter is a strong indicator of the model's explanatory power.
 
 ## 5. Discussion and Outlook
 
