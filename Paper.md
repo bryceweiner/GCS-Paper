@@ -1,6 +1,7 @@
 # Quantum Branching and Cosmic Structure: The Great Cold Spot as Potential Empirical Evidence for the Many-Worlds Interpretation
 
 Authors: Bryce Weiner
+
 Date: November 10, 2024
 
 ## Abstract
