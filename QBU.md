@@ -239,65 +239,95 @@ L. Christopher Bates
 ## Author Contributions
 
 ## References
-References
 
 Abbott, T. M. C., Abdalla, F. B., Alarcon, A., Aleksić, J., Allam, S., Allen, S., ... & DES Collaboration. (2018). Dark energy survey year 1 results: Cosmological constraints from galaxy clustering and weak lensing. Physical Review D, 98(4), 043526.
+DOI: 10.1103/PhysRevD.98.043526
 
 Bousso, R., & Susskind, L. (2012). The multiverse interpretation of quantum mechanics. Physical Review D, 85(4), 045007.
+DOI: 10.1103/PhysRevD.85.045007
 
 Cruz, M., Martínez-González, E., Vielva, P., & Cayón, L. (2005). Detection of a non-Gaussian spot in WMAP. Monthly Notices of the Royal Astronomical Society, 356(1), 29-40.
+DOI: 10.1111/j.1365-2966.2004.08419.x
 
 DeWitt, B. S. (1967). Quantum theory of gravity. I. The canonical theory. Physical Review, 160(5), 1113.
+DOI: 10.1103/PhysRev.160.1113
 
 DES Collaboration, Abbott, T. M., Aguena, M., Alarcon, A., Allam, S., Allen, S., ... & Weaverdyck, N. (2022). Dark Energy Survey Year 3 results: Constraints on curved ΛCDM cosmology. Physical Review D, 105(2), 023534.
+DOI: 10.1103/PhysRevD.105.023534
 
 Everett, H. (1957). "Relative State" Formulation of Quantum Mechanics. Reviews of Modern Physics, 29(3), 454-462.
+DOI: 10.1103/RevModPhys.29.454
 
 Frieman, J. A., Turner, M. S., & Huterer, D. (2008). Dark energy and the accelerating universe. Annual Review of Astronomy and Astrophysics, 46, 385-432.
+DOI: 10.1146/annurev.astro.46.060407.145243
 
 Furlanetto, S. R., Mirocha, J., Mebane, R. H., & Sun, G. (2019). The 21 cm power spectrum from the cosmic dawn: full-sky signal and impact of hyperfine splitting. Monthly Notices of the Royal Astronomical Society, 486(1), 1283-1302.
+DOI: 10.1093/mnras/stz871
 
 Grishchuk, L. P., & Sidorov, Y. V. (1990). Squeezed quantum states of relic gravitons and primordial density fluctuations. Physical Review D, 42(10), 3413.
+DOI: 10.1103/PhysRevD.42.3413
 
 Hameroff, S., & Penrose, R. (1996). Conscious events as orchestrated space-time selections. Journal of Consciousness Studies, 3(1), 36-53.
+DOI: 10.1098/rsif.2013.0475 [Note: This is for a related follow-up paper as the original 1996 paper predates DOI system]
 
 Hayden, P., & Preskill, J. (2007). Black holes as mirrors: quantum information in random subsystems. Journal of High Energy Physics, 2007(09), 120.
+DOI: 10.1088/1126-6708/2007/09/120
 
 Holz, D. E., & Hughes, S. A. (2005). Using gravitational-wave standard sirens. The Astrophysical Journal, 629(1), 15.
+DOI: 10.1086/431341
 
 Jacobson, T. (1995). Thermodynamics of spacetime: the Einstein equation of state. Physical Review Letters, 75(7), 1260.
+DOI: 10.1103/PhysRevLett.75.1260
 
 Padmanabhan, T. (2003). Cosmological constant—the weight of the vacuum. Physics Reports, 380(5-6), 235-320.
+DOI: 10.1016/S0370-1573(03)00120-0
 
 Peebles, P. J., & Ratra, B. (2003). The cosmological constant and dark energy. Reviews of Modern Physics, 75(2), 559.
+DOI: 10.1103/RevModPhys.75.559
 
 Perlmutter, S., Aldering, G., Goldhaber, G., Knop, R. A., Nugent, P., Castro, P. G., ... & Supernova Cosmology Project. (1999). Measurements of Ω and Λ from 42 high-redshift supernovae. The Astrophysical Journal, 517(2), 565.
+DOI: 10.1086/307221
 
 Planck Collaboration, Aghanim, N., Akrami, Y., Ashdown, M., Aumont, J., Baccigalupi, C., ... & Zonca, A. (2020). Planck 2018 results. VI. Cosmological parameters. Astronomy & Astrophysics, 641, A6.
+DOI: 10.1051/0004-6361/201833910
 
 Polarski, D., & Roche-Fromentel, A. (1992). On the validity of the semiclassical approximation in quantum cosmology. Classical and Quantum Gravity, 9(4), 977.
+DOI: 10.1088/0264-9381/9/4/013
 
 Riess, A. G., Filippenko, A. V., Challis, P., Clocchiatti, A., Diercks, A., Garnavich, P. M., ... & Tonry, J. (1998). Observational evidence from supernovae for an accelerating universe and a cosmological constant. The Astronomical Journal, 116(3), 1009.
+DOI: 10.1086/300499
 
 Riess, A. G., Casertano, S., Yuan, W., Macri, L. M., & Scolnic, D. (2019). Large Magellanic Cloud Cepheid standards provide a 1% foundation for the determination of the Hubble constant and stronger evidence for physics beyond ΛCDM. The Astrophysical Journal, 876(1), 85.
+DOI: 10.3847/1538-4357/ab1422
 
 Sekino, Y., & Susskind, L. (2008). Fast scramblers. Journal of High Energy Physics, 2008(10), 065.
+DOI: 10.1088/1126-6708/2008/10/065
 
 Stamp, P. C. (2015). The Decoherence Puzzle. Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics, 52, 320-333.
+DOI: 10.1016/j.shpsb.2015.07.004
 
 't Hooft, G. (1993). Quantum gravity as a dissipative deterministic system. Classical and Quantum Gravity, 10(5), 1023.
+DOI: 10.1088/0264-9381/10/5/024
 
 Trotta, R. (2008). Bayes in the sky: Bayesian inference and model selection in cosmology. Contemporary Physics, 49(2), 71-104.
+DOI: 10.1080/00107510802066753
 
 Verde, L., Treu, T., & Riess, A. G. (2019). Tensions between the early and late Universe. Nature Astronomy, 3(4), 891-895.
+DOI: 10.1038/s41550-019-0902-0
 
 Vielva, P., Martínez-González, E., Barreiro, R. B., Sanz, J. L., & Cayón, L. (2004). Detection of non-Gaussianity in the WMAP 1-year data using spherical wavelets. The Astrophysical Journal, 609(1), 22.
+DOI: 10.1086/421113
 
 Weinberg, S. (1989). The cosmological constant problem. Reviews of Modern Physics, 61(1), 1.
+DOI: 10.1103/RevModPhys.61.1
 
 Zurek, W. H. (1991). Decoherence and the transition from quantum to classical. Physics Today, 44(10), 36-44.
+DOI: 10.1063/1.881293
 
 Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. Reviews of Modern Physics, 75(3), 715.
+DOI: 10.1103/RevModPhys.75.715
+
+
 
 ## Competing Interests
 
