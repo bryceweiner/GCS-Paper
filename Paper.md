@@ -150,6 +150,7 @@ Bridging the observational and theoretical aspects will require careful integrat
 
 ### 6.3 Acknowledgments
 Chris Dupres, Ottawa, ON, Canada
+L. Christopher Bates
 
 ## References
 Cruz, M., Martínez-González, E., Vielva, P., & Cayón, L. (2005). Detection of a non-Gaussian spot in WMAP. Monthly Notices of the Royal Astronomical Society, 356(1), 29-40. https://doi.org/10.1111/j.1365-2966.2004.08419.x
