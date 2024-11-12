@@ -1,4 +1,4 @@
-The Impact of Quantum Branching on Quantum Entanglement
+# The Impact of Quantum Branching on Quantum Entanglement
 
 ## Abstract
 
