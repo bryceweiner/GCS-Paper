@@ -1,5 +1,4 @@
 # Falsification Analysis: Great Cold Spot and Quantum Branching Universe Theory
-Part 1: Methodological Framework and Initial Tests
 
 ## Abstract
 
