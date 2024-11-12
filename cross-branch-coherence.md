@@ -2,7 +2,7 @@
 
 ## Abstract
 
-In the Quantum Branching Universe (QBU) model, where reality manifests through a continuous process of quantum branching at a rate of γ ≈ 1.89 × 10⁻²⁹ s⁻¹, the question arises: how many branches are created when a coherent quantum system undergoes decoherence? This analysis examines the relationship between branching and decoherence in the QBU framework.
+In the Quantum Branching Universe (QBU) model, where reality manifests through a continuous process of quantum branching at a rate of γ ≈ 1.89 × 10⁻²⁹ s⁻¹, the question arises: how many branches are created when a coherent quantum system undergoes decoherence. This analysis examines the relationship between branching and decoherence in the QBU framework.
 
 ## Branching and Decoherence in the QBU
 
