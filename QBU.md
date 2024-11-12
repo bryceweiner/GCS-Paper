@@ -1,4 +1,4 @@
-# The Quantum Branching Universe: A Unified Framework for Cosmic Structure and Dark Energy
+# The Quantum Branching Universe: A Unified Framework for Cosmic Structure and Quantum Mechanics
 
 Bryce Weiner
 
@@ -232,6 +232,10 @@ Ultimately, the Quantum Branching Universe model offers a new paradigm for under
 
 We are grateful to the DES collaboration for their groundbreaking observations that have made this work possible. We thank the many colleagues who have provided valuable insights and feedback on this project, including [Names TBD]. This work was supported in part by [Grants TBD]. Computations were performed using [Resources TBD].
 
+C. Dupres
+
+L. Christopher Bates
+
 ## Author Contributions
 
 ## References
@@ -294,12 +298,6 @@ Weinberg, S. (1989). The cosmological constant problem. Reviews of Modern Physic
 Zurek, W. H. (1991). Decoherence and the transition from quantum to classical. Physics Today, 44(10), 36-44.
 
 Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. Reviews of Modern Physics, 75(3), 715.
-
-[TBD]
-
-## Data Availability
-
-The data underlying this article are available in [Repository TBD]. The code used to generate the results and figures is available at [URL TBD].
 
 ## Competing Interests
 
