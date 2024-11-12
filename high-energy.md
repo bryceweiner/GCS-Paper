@@ -1,5 +1,4 @@
 # High Energy Physics in the Quantum Branching Universe: A Comprehensive Analysis
-Foundations and Particle Interactions
 
 ## Abstract
 
