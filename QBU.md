@@ -1,11 +1,6 @@
 # The Quantum Branching Universe: Evidence from the Dark Energy Survey and the Great Cold Spot
 
-John Q. Physicist<sup>1</sup>, Jane R. Cosmologist<sup>2</sup>
-
-<sup>1</sup>Department of Theoretical Physics, University of Sciencetown, Sciencetown, ST, USA  
-<sup>2</sup>Institute for Cosmology and Astrophysics, Researchville University, Researchville, RV, USA
-
-Contact: john.q.physicist@sciencetown.edu
+Bryce Weiner
 
 ## Abstract
 
@@ -94,6 +89,8 @@ Future research should focus on further developing the theoretical foundations o
 ## Acknowledgments
 
 The authors would like to thank the Dark Energy Survey Collaboration for providing access to the DES Y3 data products and for valuable discussions. We also acknowledge the support of the University of Sciencetown and Researchville University in facilitating this research.
+C. Dupres
+L. Christopher Bates
 
 ## References
 
