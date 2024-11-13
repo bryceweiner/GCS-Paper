@@ -1,0 +1,144 @@
+import { useState } from 'react';
+
+const PrecisionPlot = () => {
+  // Same data calculations as before
+  const data = {
+    planck: {
+      omegaM: 0.3153,
+      s8: 0.8111,
+      errorOmegaM: 0.0073,
+      errorS8: 0.0060
+    },
+    desY3: {
+      omegaM: 0.2670,
+      s8: 0.7730,
+      errorOmegaM: 0.0235,
+      errorS8: 0.0230
+    },
+    qbu: {
+      omegaM: 0.2901,
+      s8: 0.7781,
+      errorOmegaM: 0.0180,
+      errorS8: 0.0230
+    }
+  };
+
+  const xMin = Math.min(...Object.values(data).map(d => d.omegaM - 2*d.errorOmegaM));
+  const xMax = Math.max(...Object.values(data).map(d => d.omegaM + 2*d.errorOmegaM));
+  const yMin = Math.min(...Object.values(data).map(d => d.s8 - 2*d.errorS8));
+  const yMax = Math.max(...Object.values(data).map(d => d.s8 + 2*d.errorS8));
+
+  const transformX = (x) => ((x - xMin) / (xMax - xMin)) * 440 + 80;
+  const transformY = (y) => 420 - ((y - yMin) / (yMax - yMin)) * 360;
+
+  return (
+    <div className="w-full h-full">
+      <svg viewBox="0 0 600 500" className="w-full h-full">
+        {/* Background */}
+        <rect width="600" height="500" fill="#ffffff" />
+
+        {/* Grid lines */}
+        <g stroke="#e0e0e0" strokeWidth="1">
+          {[0.26, 0.28, 0.30, 0.32, 0.34].map(x => (
+            <line 
+              key={`vgrid-${x}`}
+              x1={transformX(x)} 
+              y1="60" 
+              x2={transformX(x)} 
+              y2="420" 
+            />
+          ))}
+          {[0.74, 0.76, 0.78, 0.80, 0.82].map(y => (
+            <line 
+              key={`hgrid-${y}`}
+              x1="80" 
+              y1={transformY(y)} 
+              x2="520" 
+              y2={transformY(y)} 
+            />
+          ))}
+        </g>
+
+        {/* Axes */}
+        <line x1="80" y1="420" x2="520" y2="420" stroke="black" strokeWidth="2"/>
+        <line x1="80" y1="420" x2="80" y2="60" stroke="black" strokeWidth="2"/>
+
+        {/* Data points */}
+        <ellipse 
+          cx={transformX(data.planck.omegaM)} 
+          cy={transformY(data.planck.s8)}
+          rx={data.planck.errorOmegaM * 440 / (xMax - xMin)}
+          ry={data.planck.errorS8 * 360 / (yMax - yMin)}
+          fill="none" 
+          stroke="#1f77b4" 
+          strokeWidth="2"
+        />
+
+        <ellipse 
+          cx={transformX(data.desY3.omegaM)}
+          cy={transformY(data.desY3.s8)}
+          rx={data.desY3.errorOmegaM * 440 / (xMax - xMin)}
+          ry={data.desY3.errorS8 * 360 / (yMax - yMin)}
+          fill="none"
+          stroke="#2ca02c"
+          strokeWidth="2"
+        />
+
+        <ellipse 
+          cx={transformX(data.qbu.omegaM)}
+          cy={transformY(data.qbu.s8)}
+          rx={data.qbu.errorOmegaM * 440 / (xMax - xMin)}
+          ry={data.qbu.errorS8 * 360 / (yMax - yMin)}
+          fill="none"
+          stroke="#ff7f0e"
+          strokeWidth="2"
+          strokeDasharray="5,5"
+        />
+
+        {/* Labels */}
+        <text x="300" y="460" textAnchor="middle" fontSize="16">Ωm</text>
+        <text x="40" y="240" textAnchor="middle" transform="rotate(-90,40,240)" fontSize="16">S8</text>
+
+        {/* X-axis ticks */}
+        {[0.26, 0.28, 0.30, 0.32, 0.34].map(x => (
+          <text 
+            key={`xtick-${x}`}
+            x={transformX(x)} 
+            y="440" 
+            textAnchor="middle" 
+            fontSize="12"
+          >
+            {x.toFixed(2)}
+          </text>
+        ))}
+
+        {/* Y-axis ticks */}
+        {[0.74, 0.76, 0.78, 0.80, 0.82].map(y => (
+          <text 
+            key={`ytick-${y}`}
+            x="60" 
+            y={transformY(y)} 
+            textAnchor="end" 
+            fontSize="12" 
+            dominantBaseline="middle"
+          >
+            {y.toFixed(2)}
+          </text>
+        ))}
+
+        {/* Legend - positioned 15px above x-axis */}
+        <g transform="translate(420,340)">
+          <rect width="90" height="65" fill="white" stroke="black"/>
+          <line x1="5" y1="15" x2="20" y2="15" stroke="#1f77b4" strokeWidth="2"/>
+          <text x="25" y="18" fontSize="10">Planck 2018</text>
+          <line x1="5" y1="35" x2="20" y2="35" stroke="#2ca02c" strokeWidth="2"/>
+          <text x="25" y="38" fontSize="10">DES Y3</text>
+          <line x1="5" y1="55" x2="20" y2="55" stroke="#ff7f0e" strokeWidth="2" strokeDasharray="5,5"/>
+          <text x="25" y="58" fontSize="10">QBU prediction</text>
+        </g>
+      </svg>
+    </div>
+  );
+};
+
+export default PrecisionPlot;
