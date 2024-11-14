@@ -17,7 +17,7 @@ Both frameworks describe emergence through selective manifestation processes.
 
 ### 1.2 Quantum Coherence vs. Collective Unconscious
 
-QBU (DOI: 10.1142/S0217732309031521):
+QBU:
 - Coherent quantum states across branches
 - Universal wavefunction maintaining connections
 
@@ -32,7 +32,7 @@ Both propose underlying unified fields manifesting in observable patterns.
 
 ### 2.1 Empirical Approaches
 
-QBU Methodology (DOI: 10.1103/PhysRevD.99.123503):
+QBU Methodology:
 - Statistical analysis of cosmological data
 - Precise mathematical predictions
 - Observational validation through DES
@@ -59,7 +59,7 @@ Jungian Framework (DOI: 10.1080/00332925.2017.1350804):
 
 ### 3.1 Physical Measurements
 
-QBU Evidence (DOI: 10.1051/0004-6361/201833910):
+QBU Evidence:
 - DES Y3 BAO measurements
 - CMB temperature patterns
 - Large-scale structure formation
@@ -85,7 +85,7 @@ Jungian Patterns (DOI: 10.1080/00332925.2019.1564509):
 
 ### 4.1 Unified Field Concepts
 
-QBU Unification (DOI: 10.1088/0264-9381/10/5/024):
+QBU Unification:
 - Quantum-classical bridge
 - Universal branching mechanism
 - Integrated spacetime-matter description
@@ -139,7 +139,7 @@ Jungian Validation (DOI: 10.1080/00332925.2018.1534147):
 
 ### 6.1 Nature of Reality
 
-QBU Reality (DOI: 10.1103/PhysRevD.85.045007):
+QBU Reality:
 - Branching quantum multiverse
 - Observer participation
 - Coherent manifestation
