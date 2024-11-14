@@ -1,7 +1,5 @@
 # The Metacosm: Quantum Ordering in the Big Bang Narrative
 
-# Quantum Ordering in the Big Bang Narrative and the Emergence of Consciousness
-
 ## Introduction
 The Big Bang theory is the prevailing cosmological model describing the origin and evolution of the universe. According to this theory, the universe began as a singularity approximately 13.8 billion years ago and has been expanding ever since (Hawking & Penrose, 2010). This paper explores the narrative of the Big Bang from the perspective of quantum ordering, using the hierarchical structure of the metacosm to organize the different levels of reality. At each stage, we calculate the total quantum ordering, which represents the complexity and information content of the universe. Furthermore, we extend the narrative to include the emergence of consciousness and its potential role in shaping the future evolution of the universe.
 
