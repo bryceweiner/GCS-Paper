@@ -4,7 +4,7 @@
 
 ### 1.1 Reality Branching vs. Individuation
 
-QBU Framework (DOI: 10.1103/RevModPhys.75.715):
+QBU Framework:
 - Universal branching rate γ ≈ 1.89 × 10⁻²⁹ s⁻¹
 - Continuous reality manifestation through quantum selection
 
