@@ -1,4 +1,4 @@
-# In the Beginning: Understanding the Origins of Our Universe: A Simple Guide to Quantum Branching
+# In the Beginning: Understanding the Origins of Our Universe
 
 ## Introduction
 
