@@ -9,3 +9,6 @@ appendix-a.md contains mathematical models for many equations to include γ (Wei
 Some of the documents are placeholders and not well developed. Some of the documents are pure fantasy. Some are just crap.
 
 Comments are welcome.
+
+Notebook LM summary
+https://youtu.be/xr_f-3FtFcE?feature=shared
