@@ -8,7 +8,7 @@ Have you ever wondered if there might be deep connections between how the univer
 
 ### The Quantum Branching Universe (QBU)
 
-Imagine reality as a constantly branching tree. Every fraction of a second, the universe splits into slightly different versions of itself. Scientists have actually measured how often this happens - about once every 1/10,000,000,000,000,000,000,000,000,000,000 seconds (that's a 1 followed by 29 zeros!). This isn't just theory - we can see evidence of this branching in how galaxies are distributed and how light travels through space.
+Imagine reality as a constantly branching tree. Every fraction of a second, the universe splits into slightly different versions of itself. Scientists have actually measured how often this happens - about once every 1/10,000,000,000,000,000,000,000,000,000,000 of a second (that's a 1 followed by 29 zeros!). This isn't just theory - we can see evidence of this branching in how galaxies are distributed and how light travels through space.
 
 ### Carl Jung's Psychology
 
